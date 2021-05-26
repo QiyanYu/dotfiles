@@ -2,3 +2,27 @@
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
 	ignore = dirty
+[submodule "vim/pack/vendor/start/ack.vim"]
+	path = vim/pack/vendor/start/ack.vim
+	url = https://github.com/mileszs/ack.vim
+    ignore = dirty
+[submodule "vim/pack/vendor/start/ctrlp.vim"]
+	path = vim/pack/vendor/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+    ignore = dirty
+[submodule "vim/pack/vendor/start/gundo.vim"]
+	path = vim/pack/vendor/start/gundo.vim
+	url = https://github.com/sjl/gundo.vim
+    ignore = dirty
+[submodule "vim/pack/vendor/start/nerdtree"]
+	path = vim/pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+    ignore = dirty
+[submodule "vim/pack/vendor/start/vim-easymotion"]
+	path = vim/pack/vendor/start/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+    ignore = dirty
+[submodule "vim/pack/vendor/start/vim-over"]
+	path = vim/pack/vendor/start/vim-over
+	url = https://github.com/osyo-manga/vim-over
+    ignore = dirty
