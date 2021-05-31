@@ -104,6 +104,8 @@ source $ZSH/oh-my-zsh.sh
 
 alias ls='ls -lAFh'
 
+alias v='vim'
+
 
 # added by Miniconda3 4.2.12 installer
 #:export PATH="/Users/username/miniconda3/bin:$PATH"m
