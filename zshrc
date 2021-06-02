@@ -106,6 +106,9 @@ alias ls='ls -lAFh'
 
 alias v='vim'
 
+# add alias of mv -i for default
+alias mv='mv -i'
+
 # add alias for starting a virtual machine using VirtualBox of Ubuntu Server
 alias startvm='VBoxManage startvm "Ubuntu Server 20.04.2" --type headless'
 
