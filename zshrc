@@ -106,6 +106,15 @@ alias ls='ls -lAFh'
 
 alias v='vim'
 
+# add alias for starting a virtual machine using VirtualBox of Ubuntu Server
+alias startvm='VBoxManage startvm "Ubuntu Server 20.04.2" --type headless'
+
+# add alias for turning off a virtual machine
+alias poweroffvm='VBoxManage controlvm "Ubuntu Server 20.04.2" poweroff'
+
+# alias for git
+alias gs='git status'
+
 
 # added by Miniconda3 4.2.12 installer
 #:export PATH="/Users/username/miniconda3/bin:$PATH"m
