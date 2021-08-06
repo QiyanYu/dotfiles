@@ -118,6 +118,8 @@ alias poweroffvm='VBoxManage controlvm "Ubuntu Server 20.04.2" poweroff'
 # alias for git
 alias gs='git status'
 
+# alias python to python3
+alias python='python3'
 
 # added by Miniconda3 4.2.12 installer
 #:export PATH="/Users/username/miniconda3/bin:$PATH"m

@@ -1,5 +1,6 @@
 export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH
 
+export PATH=/Users/yu/Library/Python/3.9/bin
 
 export PATH=$PATH:~/gcc-arm-none-eabi-7-2017-q4-major/bin
 
